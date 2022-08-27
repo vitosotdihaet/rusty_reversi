@@ -10,9 +10,7 @@ You can place pieces by inputting X and Y values (counting from 1 to 8 from a to
 
 Download rust here -> https://www.rust-lang.org/tools/install
 
-Run the following in a terminal in a project folder (.../rusty_reversi)
-~~~
-cargo run
-~~~
+Run ``` cargo run ``` in a terminal in a project folder (.../rusty_reversi)
 
-Enjoy!
+
+## Enjoy!
